@@ -1,0 +1,14 @@
+work/
+*.wlf
+wlf*
+*.vcd
+*.svo
+*.sdo
+*.xrf
+*.csd
+*.hdl.mif
+*.sft
+transcript
+gate_work/
+*.ini_lock
+memory.lst
